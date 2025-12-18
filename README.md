@@ -82,7 +82,7 @@
   
 ## 🎒 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Djon-QA-from161/Djon-QA-from161/refs/heads/main/diplom.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/recommend.jpg" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/Djon-QA-from161/Djon-QA-from161/1b752cdadf985bc7a5bffa2f43654b4512bf48e5/recommend.jpg)
 
 <br>
 <br>
